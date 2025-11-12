@@ -1,0 +1,5 @@
+{
+  "name": "AI Flask Code Generator",
+  "description": "A simple web application that uses AI to generate Python Flask code based on a user's prompt. Enter a description of the web app you want, and the AI will provide the code.",
+  "requestFramePermissions": []
+}
